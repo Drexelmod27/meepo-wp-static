@@ -1,0 +1,136 @@
+.c-longform > * + *, .c-longform li + li {
+    margin-top: 1.875rem;
+}
+
+.c-longform {
+    font-family: 'roboto';
+    font-weight: normal;
+    font-style: normal;
+}
+.c-figure__image {
+    width: 500px;
+    border: 1px solid;
+    padding: 30px 20px;
+}
+
+.c-general--main-heading {
+    margin-top: 150px;
+}
+
+.c-longform form label {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    
+}
+
+.c-general_dropdown {
+    padding: 10px 120px;
+    margin-top: 10px;
+    border: 1px solid rgba(34, 34, 34, 0.2);
+}
+
+.c-general-button-primary {
+    text-transform: uppercase;
+    background-color: rgb(2, 18, 22);
+    border-radius: 10px;
+    padding: 20px 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'roboto';
+    font-weight: normal;
+    font-style: normal;
+}
+
+.c-general-button-secondary {
+    color: #2f3640;
+    margin-left: 1.25rem;
+    text-decoration: none;
+    letter-spacing: -0.04em;
+    font-family: 'roboto';
+    font-weight: normal;
+    font-style: normal;
+   
+}
+
+.c-general-buttons {
+    margin-top: 60px;
+}
+
+figcaption {
+    margin-top: 20px;
+}
+
+input  {
+    padding: 10px 70px;
+    margin-top: 10px;
+    border: 1px solid rgba(34, 34, 34, 0.2);
+}
+
+
+table {
+    width: 100%;
+}
+thead {
+    background-color: #2f3640;
+    color: #FFFFFF;
+    outline: 0;
+}
+
+tbody {
+    background-color: #F5F5F5;
+}
+
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+
+th {
+    white-space: nowrap;
+    border: 0;
+    padding: 0.9375rem 0.9375rem;
+    font-size: 13px;
+    font-size: 0.8125rem;
+    line-height: 18px;
+    letter-spacing: 0.015em;
+    font-family: 'roboto';
+    font-weight: normal;
+    font-style: normal;
+}
+
+td {
+    white-space: nowrap;
+    border: 0;
+    padding: 0.9375rem 0.9375rem;
+    font-size: 13px;
+    font-size: 0.8125rem;
+    line-height: 18px;
+    letter-spacing: 0.015em;
+    font-family: 'roboto';
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 768px) {
+     {
+        
+    }
+}
