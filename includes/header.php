@@ -17,6 +17,7 @@
     <link href="dist/css/header.css" rel="stylesheet" type="text/css">
     <link href="dist/css/faq.css" rel="stylesheet" type="text/css">
     <link href="dist/css/general-styles.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="dist/css/animate.css">
 </head>
 <body>
     <header class="l-grid c-header topnav">
@@ -35,10 +36,10 @@
             </button>
             <!-- Navigation links hidden by default -->      
             <nav class="c-header__menu c-nav-main">
-                <a class="c-nav-main__link" href="index.php">home</a>
-                <a class="c-nav-main__link" href="faq.php">faq</a>
-                <a class="c-nav-main__link" href="#">gallery</a>
-                <a class="c-nav-main__link" href="general.php">contact</a>
+                <a class="c-nav-main__link wow bounceInUp" href="index.php">home</a>
+                <a class="c-nav-main__link wow bounceInUp" href="faq.php">faq</a>
+                <a class="c-nav-main__link wow bounceInUp" href="#">gallery</a>
+                <a class="c-nav-main__link wow bounceInUp" href="general.php">contact</a>
             </nav>
         </div>
     </header>

@@ -16,7 +16,7 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod sint culpa dolore. Aliquid inventore eligendi maxime reprehenderit aliquam itaque ex recusandae natus, totam fugit voluptate, praesentium quibusdam facere corrupti. Incidunt.</p>
         <h3>Heading 3 -.epsilon Style</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid laborum atque et adipisci, quas expedita! Culpa, officia! Eligendi a commodi sit totam cumque ipsam adipisci quaerat, illum repellat maiores doloribus?</p>
-        <h4>Heading 4 -.zeta style</h4>
+        <h4 class="wow shake">Heading 4 -.zeta style</h4>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique sunt fugiat expedita quidem harum? Consequatur fugit enim iure unde sunt eum rem doloremque dignissimos, consectetur laborum expedita qui possimus optio!</p>
         <h5>Heading 5 -.eta style</h5>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium placeat cum quos illum sunt consequuntur molestias nihil perferendis nesciunt ipsa. Deserunt, eligendi! Perspiciatis cumque odio consectetur reiciendis unde alias sunt!</p>
